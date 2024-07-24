@@ -1,0 +1,3 @@
+Carlos,Solis,22,M,Veterano
+Rodrigo,Culebro,18,M,Novato
+paupau,reyes,19,F,Consolidado
